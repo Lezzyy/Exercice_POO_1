@@ -95,8 +95,10 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
-
+/* All */
+body {
+  background-image: url(../img/body.jpg);
+}
 
 
 
