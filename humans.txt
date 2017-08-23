@@ -3,9 +3,9 @@
 
 # TEAM
 
-    <name> Aaron
+    <name> Lau
     <role> Developper Web
-    <twitter> @Noraa_RB
+    <twitter> 
 
 # TECHNOLOGY COLOPHON
 
